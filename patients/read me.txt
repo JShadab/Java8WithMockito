@@ -1,0 +1,22 @@
+We have patients in hospital. We know their diagnoses (each can have several) 
+and test performed (I coll that test Analyses, maybe not best name) Each analysis can be positive or negative.
+
+Main purpose is to determine which analysis predict diagnose.
+
+In my case analysis predict diagnoses if more people have same analysis result that don't.
+
+Also i have dummy data generator.
+
+List of diagnoses configured in clinic.repository.Diagnoses
+
+list of possible analysis in clinic.repository.Analyzes
+
+Data generator in clinic.repository.Patients
+
+All together can be runned from clinic.CorrelationsAnalysesIntegrationTest
+
+
+Some utils I need. some common functions to work with streams and Tuple class which is basically pair of values.
+
+Of course such approach is weak from statistical point of view, but it is not what I want to demonstrate.
+

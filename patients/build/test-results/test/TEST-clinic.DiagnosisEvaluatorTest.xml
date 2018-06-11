@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="clinic.DiagnosisEvaluatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-06-11T05:47:55" hostname="DESKTOP-ILUP3VR" time="0.017">
+  <properties/>
+  <testcase name="evaluate" classname="clinic.DiagnosisEvaluatorTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

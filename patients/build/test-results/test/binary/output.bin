@@ -1,0 +1,40 @@
+
+	·Patient{name='Charles Trump', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lung cancer'}], analyses=[AnalysisResult{name='Have a parrot', resultPositive=false}, AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Smoking pipe', resultPositive=false}]}
+
+	¸Patient{name='Marilyn Francis', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Some other #1', resultPositive=false}, AnalysisResult{name='Some other #3', resultPositive=false}, AnalysisResult{name='Some other #2', resultPositive=true}]}
+
+	¹Patient{name='Christopher Kennedy', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Smoking pipe', resultPositive=true}, AnalysisResult{name='Some other #1', resultPositive=true}]}
+
+	¼Patient{name='John Elizabeth', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='I'm the pirate'}], analyses=[AnalysisResult{name='Smoking pipe', resultPositive=false}, AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Blood in urine', resultPositive=false}]}
+
+	ÃPatient{name='Christopher Churchill', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Some other #2', resultPositive=true}, AnalysisResult{name='High blood pressure', resultPositive=true}, AnalysisResult{name='Blood leakage', resultPositive=false}]}
+
+	¿Patient{name='Mahatma Churchill', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='High blood pressure', resultPositive=false}, AnalysisResult{name='Smoking pipe', resultPositive=false}, AnalysisResult{name='Some other #1', resultPositive=true}]}
+
+	»Patient{name='Muhammad Victoria', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lung cancer'}], analyses=[AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Some other #2', resultPositive=true}, AnalysisResult{name='Some other #1', resultPositive=false}]}
+
+	·Patient{name='Marilyn Darwin', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lung cancer'}], analyses=[AnalysisResult{name='Smoking pipe', resultPositive=true}, AnalysisResult{name='Have a parrot', resultPositive=true}, AnalysisResult{name='Blood in urine', resultPositive=true}]}
+
+	ºPatient{name='Margaret Ali', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='I'm the pirate'}], analyses=[AnalysisResult{name='Have a parrot', resultPositive=false}, AnalysisResult{name='Blood in urine', resultPositive=true}, AnalysisResult{name='Some other #2', resultPositive=true}]}
+
+	¸Patient{name='Marilyn McCartney', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Have a parrot', resultPositive=true}, AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Some other #2', resultPositive=true}]}
+
+	¾Patient{name='Winston Victoria', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Blood leakage', resultPositive=false}, AnalysisResult{name='High blood pressure', resultPositive=true}, AnalysisResult{name='Some other #2', resultPositive=true}]}
+
+	´Patient{name='Winston Ali', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Some other #1', resultPositive=false}, AnalysisResult{name='Blood in urine', resultPositive=true}, AnalysisResult{name='Some other #2', resultPositive=true}]}
+
+	½Patient{name='Martin McCartney', diagnoses=[Diagnosis{diseaseName='Lung cancer'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Some other #3', resultPositive=true}, AnalysisResult{name='High blood pressure', resultPositive=false}, AnalysisResult{name='Blood in urine', resultPositive=false}]}
+
+	¾Patient{name='Winston Mandela', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='High blood pressure', resultPositive=false}, AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Some other #2', resultPositive=false}]}
+
+	¸Patient{name='Mahatma Trump', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lung cancer'}], analyses=[AnalysisResult{name='Some other #3', resultPositive=true}, AnalysisResult{name='Blood leakage', resultPositive=false}, AnalysisResult{name='Some other #1', resultPositive=false}]}
+
+	¸Patient{name='Pope McCartney', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Blood leakage', resultPositive=false}, AnalysisResult{name='Some other #3', resultPositive=false}, AnalysisResult{name='Some other #1', resultPositive=false}]}
+
+	ÀPatient{name='Mahatma Francis', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lung cancer'}], analyses=[AnalysisResult{name='Some other #3', resultPositive=false}, AnalysisResult{name='High blood pressure', resultPositive=false}, AnalysisResult{name='Smoking pipe', resultPositive=false}]}
+
+	µPatient{name='Bill Lincoln', diagnoses=[Diagnosis{diseaseName='Kidney failure'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Blood leakage', resultPositive=true}, AnalysisResult{name='Blood in urine', resultPositive=false}, AnalysisResult{name='Some other #3', resultPositive=true}]}
+
+	½Patient{name='Muhammad Darwin', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lost limb'}], analyses=[AnalysisResult{name='Some other #1', resultPositive=true}, AnalysisResult{name='High blood pressure', resultPositive=true}, AnalysisResult{name='Blood leakage', resultPositive=false}]}
+
+	ÁPatient{name='Abraham Einstein', diagnoses=[Diagnosis{diseaseName='I'm the pirate'}, Diagnosis{diseaseName='Lung cancer'}], analyses=[AnalysisResult{name='Some other #2', resultPositive=false}, AnalysisResult{name='Have a parrot', resultPositive=true}, AnalysisResult{name='High blood pressure', resultPositive=false}]}
